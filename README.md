@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers 🦄
 
 - Class Date: February 28 - March 3, 2022
 - Facilitator: @allthedoll
@@ -9,6 +9,8 @@
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
+
+Changes 1
 
 <details>
 
